@@ -8,7 +8,7 @@ const Card = ({title}) => {
         <h2 className="title">{title}</h2>
         <button className="read">read...</button>
         <button className="create">create...</button>
-        <button>sdjk</button>
+        
     </div>
    </>
   )
