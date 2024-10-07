@@ -7,10 +7,7 @@ import Typewriter from './pages/Typewriter';
 const App = () => {
   return (
     <>
-    <div className='cards'>
-    <Card
-        title={"this is node.js blog"} />
-    </div>
+   
     <Typewriter />
      
 
